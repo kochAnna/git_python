@@ -1,5 +1,4 @@
 # Основной функционал программы
 print("Выполнение основного функционала скрипта...")
-
 # Логирование и завершение работы
-print("contact: email.support@github.com")
+print("contact: support@github.com")
